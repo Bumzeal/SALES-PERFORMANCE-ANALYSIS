@@ -6,9 +6,9 @@ This project Captures End to End Data Analysis & Visualization  of A company Sal
 * Draw a dragram Representation of the Dashboard using DRAWIO,click to view 👉 [link](https://app.diagrams.net/#HBumzeal%2FSALES-PERFORMANCE-ANALYSIS%2Fmain%2FUntitled%20Diagram.drawio)
 
 * Loaded Dataset from Postgres server into Power Bi Desktop
-*  Perform Data Cleaning using POWER QUERY
+* Perform Data Cleaning using POWER QUERY
 * Created a Date Table using DAX FUNCTION
-* Visualise the Data by showing the Key Performance Matrix
+* Visualized the Data by showing the Key Performance Metrics
 
 ### PROJECT STATEMENT
 
@@ -25,6 +25,7 @@ The company wants A Forecast on their Revenue For the Next Quater.
 + Data visualisation using Power Bi
 
 ### DATA ANALYSIS
+
 ### RECOMENDATION & CONCLUSION
 
 
