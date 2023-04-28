@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-28T18:05:33.943Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="8D2sbU6to5SqR2gp51Bf" version="21.2.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-04-28T18:08:14.092Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="SsNeGOfs2Y5cxeJW4aOK" version="21.2.3" type="github" pages="5">
   <diagram name="Yearly performance" id="IOg-lXAIRSiLPFuE2EKe">
-    <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1120" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,7 +50,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Region Performance" id="4ZlAIeUkRt-ddSMpUigh">
-    <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1120" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="NaI2W4js6MeCUPBTsbSh-0" />
         <mxCell id="NaI2W4js6MeCUPBTsbSh-1" parent="NaI2W4js6MeCUPBTsbSh-0" />
@@ -94,7 +94,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Performance by Country" id="f_A8e4imJIkMTM3uf0y1">
-    <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1120" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="A-wNUpnpyqtRAg6gryve-0" />
         <mxCell id="A-wNUpnpyqtRAg6gryve-1" parent="A-wNUpnpyqtRAg6gryve-0" />
@@ -138,7 +138,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Performance by Item" id="RSnpznvPwG8hvG1cNPcC">
-    <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1120" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ys1o5vq_w1XmXQbyXvVi-0" />
         <mxCell id="ys1o5vq_w1XmXQbyXvVi-1" parent="ys1o5vq_w1XmXQbyXvVi-0" />
@@ -176,7 +176,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ANALYSIS" id="MMieHru48YvZVzxaWAP5">
-    <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1120" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Fb2S91rcxJ0nnkFsL-SM-0" />
         <mxCell id="Fb2S91rcxJ0nnkFsL-SM-1" parent="Fb2S91rcxJ0nnkFsL-SM-0" />
